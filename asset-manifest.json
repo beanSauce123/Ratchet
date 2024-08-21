@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ratchet/static/css/main.275cf07f.css",
+    "main.js": "/Ratchet/static/js/main.b3dab60f.js",
+    "static/js/453.4487d271.chunk.js": "/Ratchet/static/js/453.4487d271.chunk.js",
+    "index.html": "/Ratchet/index.html",
+    "main.275cf07f.css.map": "/Ratchet/static/css/main.275cf07f.css.map",
+    "main.b3dab60f.js.map": "/Ratchet/static/js/main.b3dab60f.js.map",
+    "453.4487d271.chunk.js.map": "/Ratchet/static/js/453.4487d271.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.275cf07f.css",
+    "static/js/main.b3dab60f.js"
+  ]
+}
